@@ -1,0 +1,51 @@
+
+  [ {
+    "No":"01",
+    "ID":"A",
+    "UserName":"Swagnik",
+    "Status":"Active",
+    "UserCreationDate":"2/11/22"
+},
+{
+    "No":"02",
+    "ID":"B",
+    "UserName":"Rahul",
+    "Status":"Inactive",
+    "UserCreationDate":"04/20/22"
+},
+{
+    "No":"03",
+    "ID":"C",
+    "UserName":"Swagata",
+    "Status":"Active",
+    "UserCreationDate":"20/20/22"
+},
+{
+    "No":"04",
+    "ID":"D",
+    "UserName":"Suvam",
+    "Status":"Inactive",
+    "UserCreationDate":"2/20/22"
+},
+{
+    "No":"05",
+    "ID":"E",
+    "UserName":"Ram",
+    "Status":"Inactive",
+    "UserCreationDate":"04/20/22"
+},
+{
+    "No":"06",
+    "ID":"F",
+    "UserName":"Swayantan",
+    "Status":"Inactive",
+    "UserCreationDate":"2/20/22"
+},
+{
+    "No":"07",
+    "ID":"F",
+    "UserName":"Ratan",
+    "Status":"Active",
+    "UserCreationDate":"2/20/22"
+}
+]
